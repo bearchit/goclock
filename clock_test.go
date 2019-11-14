@@ -1,4 +1,4 @@
-package clock_test
+package goclock_test
 
 import (
 	"testing"
